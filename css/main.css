@@ -1,0 +1,105 @@
+
+body{
+    background-color:greenyellow;
+}
+
+
+
+h2{
+    color: blue;
+    font-size: large;
+    font-family: 'Lobster', cursive;
+    
+}
+
+
+.one{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    font-size: 15px;
+
+}
+
+.two{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+th{
+    color: black;
+    font-family: 'Lobster', cursive;
+    text-align:center;
+    border: 3px solid black;
+    
+
+} 
+
+td{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    border: 3px solid black;
+    text-align: center;
+
+    
+    
+    
+        
+}
+
+.four{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.five{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.six{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+    
+.seven{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+.eight{
+    color: black;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Muli', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
